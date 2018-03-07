@@ -1,6 +1,11 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+Assets/FMODStudioCache.asset
+Assets/StreamingAssets/*.bank
+fmod.log
+fmod_editor.log
+
 # Visual Studio 2015 database file
 *.VC.db
 
